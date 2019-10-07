@@ -5,5 +5,5 @@ def parrot(phrase = "Squawk!")
   phrase
 end
 
-parrot
-parrot("Help!")
+puts parrot
+puts parrot("Help!")
